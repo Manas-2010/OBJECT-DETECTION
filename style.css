@@ -10,7 +10,7 @@ body {
     margin: 0px;
 }
 
-#status {
+#status,#objectNo,#start {
     font-size: 18px;
 }
 
